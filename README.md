@@ -73,3 +73,7 @@ PORT=3000
 node server.js
 
 * O servidor estará disponível em http://localhost:3000.
+
+# Vídeo demonstrativo no Youtube:
+
+ * https://www.youtube.com/watch?v=EZ1rMLB_K-s
