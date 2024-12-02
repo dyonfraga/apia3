@@ -1,7 +1,7 @@
 # Integrantes:
 
 * Dyon Fraga Comassetto - 324241390
-* Bernado Lencina - 1302315825
+* Bernado Lencina - 1302315815
   
 
 
